@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.2",
+  "name": "mori-offline-wardrobe",
+  "version": "0.1.0",
+  "description": "沐衣离线衣橱",
+  "dependencies": {},
+  "devDependencies": {}
+}
